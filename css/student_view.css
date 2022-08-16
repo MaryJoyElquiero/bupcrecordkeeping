@@ -1,0 +1,35 @@
+body{
+
+	background-color: #c5fbeb;
+}
+
+.content{
+	background-color: white;
+	margin: 30px 10px auto;
+}
+
+.card{
+	margin-bottom: 10px;
+}
+.picture{
+	text-align: center;
+}
+.picture img{
+	margin: 5px;
+}
+p.name{
+	font-size: 30px;
+	color: #37af96;
+}
+
+p.details{
+	font-weight: 500;
+}
+
+.submitted{
+	background-color: white;
+	margin: 20px 10px auto;
+}
+table{
+	margin:10px auto;
+}

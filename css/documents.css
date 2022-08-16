@@ -1,0 +1,63 @@
+html{
+	position: relative;
+	min-height: 100%;
+	}
+body{
+
+	background-color: #c5fbeb;
+}
+
+.box{
+	margin: 40px auto 100px;
+	background-color: white ;
+
+}
+
+.docs{
+	margin: 10px;
+	padding: 20pt 10pt;
+}
+.card{
+	margin: 10px;
+	background-color:#f6f9f8;
+}
+
+.icon i{
+	font-size: 100px;
+	color: #37af96 ;
+}
+
+
+.btn{
+	background-color: #37af96;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+}
+
+.scroll{
+	max-height: inherit;
+	overflow-y: scroll;
+}
+
+.documents{
+	background-color: #f4f7f6;
+}
+
+.bi-file-earmark-richtext{
+	font-size: 20px;
+	font-weight: 600;
+	
+}
+
+.stype{
+	color: #37af96;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;       
+}

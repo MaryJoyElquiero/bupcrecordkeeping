@@ -1,0 +1,144 @@
+body{
+
+	background-color: #c5fbeb;
+}
+
+.box{
+	margin: 30px auto;
+}
+
+.student{
+	background-color: white;
+	height: auto;
+}
+.profileinfo{
+	background-color: white;
+}
+.basic{
+	margin: 10px;
+	border: 1px solid #6fcbaf;
+}
+.pp{
+	height: 150px;
+	width: 150px;
+	margin: 20px auto;
+}
+.pp img{
+	height: 100%;
+	width: 100%;
+	border-radius: 100px;
+
+}
+.name{
+	text-align: center;
+	color: #37af96;
+}
+.details{
+	margin: 20px;
+
+}
+.Setting{
+	margin: 20px;
+
+}
+.title{
+	height: 30px;
+	font-size: 18px;
+	background-color: #6fcbaf;
+	color: white;
+}
+
+.title p{
+	margin-left: 5px;
+}
+.profile{
+	margin: 5px;
+}
+.label{
+	font-weight: 500;
+}
+.info input{
+	width: 100%;
+	
+}
+.address{
+	background-color: white;
+}
+
+.btn{
+	background-color: #37af96;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+	margin: 2px;
+}
+
+.stype{
+	color: #37af96;
+	font-size: 16px;
+	font-weight: 500;
+}
+p.success{
+	background-color: #7bee7e;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 8px;
+	height: auto;
+	border-radius: 10px;
+	margin: 10px;
+	padding-bottom: 8px;
+
+}
+p.error{
+	background-color: red;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 10px;
+	height: auto;
+	border-radius: 8px;
+	margin: 10px;
+	padding-bottom: 8px;
+}
+
+.submit{
+	background-color:  #6fcbaf;
+	margin: 10px;
+
+}
+.missing{
+	background-color: #ffb3a9;
+	margin: 10px;
+
+}
+.sub{
+	font-size: 16px;
+	text-align: center;
+	color: black;
+}
+
+.num{
+	text-align: center;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.form{
+	margin: 10px;
+}
+
+.btn1{
+	outline: none;
+	border: none;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+.btn1:hover{
+	color: blue;
+}
+
+.settings:hover{
+	color: blue;
+}

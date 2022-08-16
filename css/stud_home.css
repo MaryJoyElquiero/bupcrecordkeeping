@@ -1,0 +1,103 @@
+html{
+	position: relative;
+	min-height: 100%;
+	}
+body{
+
+	background-color: #c5fbeb;
+}
+
+.box{
+	margin: 30px auto 100px auto;
+	background-color: white;
+	
+}
+
+.tosubmit:hover{
+  box-shadow: 0 15px 10px -10px rgba(31, 31, 31, 0.5);
+  transition: all 0.3s ease;
+}
+.submitted{
+	margin: 5px auto;
+	
+}
+.submission{
+	margin: 5px auto;
+
+}
+
+.submit{
+	width: 100%;
+	background-color: #37af96;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+}
+
+
+.view{
+	color: #2cd9f4;
+	width: 98%;
+	margin: 0 auto 5px;
+}
+
+p.danger{
+	background-color: red;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 10px;
+	height: auto;
+	border-radius: 8px;
+	margin-bottom: 20px;
+	padding-bottom: 8px;
+}
+p.success{
+	background-color: #7bee7e;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 8px;
+	height: auto;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	padding-bottom: 8px;
+}
+
+p.files{
+
+	color: #37af96;
+
+}
+
+.files em{
+	color: black;
+}
+
+.none{
+	text-align: center;
+	padding: 10px;
+}
+.none i{
+	font-size: 50px;
+	color:#37af96 ;
+}
+
+.btn{
+	background-color: #37af96;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+}
+
+.stype{
+	color: #37af96;
+	font-size: 16px;
+	font-weight: 500;
+}
+#footer {
+	position: absolute;
+  bottom: 0;
+  width: 100%;     
+}
+

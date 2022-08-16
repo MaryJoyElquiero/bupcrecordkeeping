@@ -1,0 +1,149 @@
+body{
+
+	background-color: #c5fbeb;
+}
+.content{
+	margin: 10px auto;
+}
+
+
+.student{
+	border: 1px solid #e0e9e2;
+}
+p.name{
+	font-size: 24px;
+	color: #37af96;
+	text-align: center;
+}
+
+p.details{
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.submitted{
+	background-color: white;
+	margin: 20px 10px auto;
+}
+
+.docu{
+
+	border: 1px solid #e0e9e2;
+	margin: 10px 20px;
+}
+.hidetext { -webkit-text-security: disc; /* Default */ }
+
+.complete{
+	font-size: 16px;
+	font-weight: 700;
+	color: green;
+}
+.incomplete{
+	font-size: 16px;
+	font-weight: 700;
+	color: red;
+}
+.profileinfo{
+	background-color: white;
+	margin-bottom: 10px;
+
+}
+.basic{
+	padding: 10px;
+	border: 1px solid #6fcbaf;
+}
+.title{
+	height: 30px;
+	font-size: 22px;
+	background-color: #6fcbaf;
+	color: white;
+	margin-bottom: 10px;
+}
+
+.title p{
+	margin-left: 5px;
+}
+
+.buttons{
+	background-color: #37af96;
+	border-radius: 5px;
+	color: white;
+	font-weight: 600;
+	margin: 2px;
+}
+
+.profile{
+	margin: 5px;
+}
+.label{
+	font-weight: 500;
+}
+.info input{
+	width: 100%;
+	}
+.submit{
+	background-color:  #6fcbaf;
+	margin: 10px;
+
+}
+.missing{
+	background-color: #ffb3a9;
+	margin: 10px;
+
+}
+.sub{
+	font-size: 16px;
+	text-align: center;
+	color: black;
+}
+
+.num{
+	text-align: center;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.box{
+	height: 150px;
+	width: 150px;
+	margin: 0 auto;
+}
+.box img{
+	height: 100%;
+	width: 100%;
+	border-radius: 100px;
+
+}
+
+.fname{
+ font-weight: 600;
+}
+.type{
+	color: #c10404;
+	font-size: 16px;
+	font-weight: 500;
+}
+.ftype{
+	color: #58a7d6;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+
+p.count{
+	font-size: 40px;
+	font-weight: 600;
+	color: white;
+	text-align: center;
+}
+
+
+p.text1{
+	font-size: 18px;
+	font-weight: 400;
+	color: white;
+	text-align: center;
+}
+.data:hover{
+	color: #c5fbeb;;
+}
